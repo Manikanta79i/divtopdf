@@ -34,7 +34,7 @@ $(document).ready(function() {
         <div class="address" style="margin-top:10px ;">
            <h2>ACCOUNT STATEMENT</h2>
            Generated Electronically as on <?php echo "Hero";  ?>
- <img src="assets/logo.png" height="100" width="100" style="float: right;margin-top: -68px;">
+ <img src="https://static.vecteezy.com/system/resources/previews/008/214/517/non_2x/abstract-geometric-logo-or-infinity-line-logo-for-your-company-free-vector.jpg" height="100" width="100" style="float: right;margin-top: -68px;">
         </div>
 <hr>
 <div class="">
